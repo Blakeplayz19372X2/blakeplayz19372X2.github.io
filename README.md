@@ -1,3 +1,2 @@
 # blakeplayz19372.github.io
-This is my personal hybrid game website/core website.
-To suggest games for me to add, create a new issue OR pull request with the scratch file (ONLY .sb3 files).
+This website has been blocked by my district's blocker, and therefore abandoned. Use blakeplayz19372X.github.io instead. 
